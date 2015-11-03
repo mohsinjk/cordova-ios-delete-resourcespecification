@@ -8,7 +8,7 @@
     <description>IOS Delete ResourceSpecification Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,device</keywords>
-    <repo>https://github.com/chancezeus/cordova-ios-delete-resourcespecification.git</repo>
+    <repo>https://github.com/mohsinjk/cordova-ios-delete-resourcespecification.git</repo>
     <platform name="ios">
         <config-file target="*-Info.plist" parent="CFBundleResourceSpecification">
             <string></string>
