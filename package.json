@@ -1,0 +1,19 @@
+{
+    "version": "0.0.1",
+    "name": "cordova-ios-delete-resourcespecification",
+    "cordova_name": "IOS Delete ResourceSpecification",
+    "description": "IOS Delete ResourceSpecification Plugin",
+    "license": "MIT",
+    "repo": "https://github.com/chancezeus/cordova-ios-delete-resourcespecification.git",
+    "keywords": [
+        "cordova",
+        "ios",
+        "resourcespecification",
+        "ios9"
+    ],
+    "platforms": [
+        "ios"
+    ],
+    "engines": [],
+    "englishdoc": ""
+}
